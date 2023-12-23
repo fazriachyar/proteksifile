@@ -13,7 +13,7 @@ import myProject.CryptoUtils;
 
 /**
  *
- * @author aliif
+ * @author fazriachyar
  */
 public class ProteksiFile extends javax.swing.JFrame {
     private static String fileNameInput;
